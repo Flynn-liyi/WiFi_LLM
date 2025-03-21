@@ -6,4 +6,4 @@ print(a,b,c)
 print(type(a),type(b),type(c))
 print(str(a)+b) #不报错
 d=333
-print('yx是蠢猪')
+print('ly是ass')
